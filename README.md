@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Math289s
+- 🏫 I'm Currently studying a Bachelor of Science in Software Engineering at Syddansk Universitet - University of Southern Denmark - SDU
 - 👀 I’m interested in programming in python and C#
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on: not anything right now
